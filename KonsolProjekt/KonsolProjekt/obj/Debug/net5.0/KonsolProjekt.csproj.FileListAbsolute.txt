@@ -1,0 +1,16 @@
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.exe
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.deps.json
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.runtimeconfig.json
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.runtimeconfig.dev.json
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.dll
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\ref\KonsolProjekt.dll
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\bin\Debug\net5.0\KonsolProjekt.pdb
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.csprojAssemblyReference.cache
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.AssemblyInfoInputs.cache
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.AssemblyInfo.cs
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.csproj.CoreCompileInputs.cache
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.dll
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\ref\KonsolProjekt.dll
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.pdb
+C:\Users\rames\OneDrive\Dokument\KonsolProjekt\KonsolProjekt\KonsolProjekt\obj\Debug\net5.0\KonsolProjekt.genruntimeconfig.cache
